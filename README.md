@@ -1,5 +1,6 @@
 # Pong Game (Raylib C++)
 
+![Pong Game Demo](Pong_Game.gif)
 
 A classic 2-player arcade **Pong Game** built in C++ using the [Raylib](https://www.raylib.com/) library. It features smooth 60 FPS gameplay, circle-to-rectangle paddle collisions, a custom fading intro sequence, real-time score tracking, and local two-player keyboard controls.
 
